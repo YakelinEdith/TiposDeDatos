@@ -21,14 +21,19 @@ public class FamiliaConVaraibles {
     System.out.println(NombreMadre);
      int EdadMadre = 46;
       System.out.println("Ella tiene " +EdadMadre+ " años");
-       System.out.println ("Para finalizar tenemos a mi hermano, su nombre es: ");
-       
+      
+      
+       System.out.println ("Luego tenemos a mi hermano, su nombre es: ");
     String NombreHermano = "Juan Antonio Ramirez Gonsaléz";
     System.out.println(NombreHermano);
      int EdadHermano = 22;
       System.out.println("Èl tiene " +EdadHermano+ " años");
     
-            
+     System.out.println ("Para finalizar estoy yo, mi nombre es:");
+    String MiNombre = "Yakelin Edith Ramirez Gonsaléz";
+    System.out.println(MiNombre);
+     int MiEdad = 20;
+      System.out.println("Yo tengo " +MiEdad+ " años");     
             
     }
     
